@@ -1,6 +1,6 @@
 const express=require("express")
 const app=express()
-app.use("/hellow",(req,res)=>{
+app.use((req,res)=>{
     res.send("hellow from the  ")
 })
 app.listen(5050,()=>{
