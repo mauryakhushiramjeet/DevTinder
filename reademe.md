@@ -11,3 +11,9 @@ Difference between caret and tilde (^ vs)
 play with routes ex: /hello,"/"
 Order of routes is Matter
 ---install Postman app and mae a workspace/collection >test API call
+Reading the query params in routes.
+
+-Multiple route handlers-Play with the code
+Next()
+next() function  and error along with  res.send()
+<!-- WBSvAzNNIXbOcsN7 -->
